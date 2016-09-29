@@ -1,0 +1,1 @@
+Copy CouchbaseLite.framework into this folder
